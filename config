@@ -1,0 +1,3 @@
+vlan 10 enable name DATA
+vlan 20 enable name VOICE
+vlan 99 enable name MANAGEMENT
